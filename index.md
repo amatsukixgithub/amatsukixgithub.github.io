@@ -4,6 +4,8 @@ layout: default
 
 # あまつき
 
+<img src="amatsuki_img.jpeg" width="240">
+
 birth:1995.8.14
 
 # Hobby
