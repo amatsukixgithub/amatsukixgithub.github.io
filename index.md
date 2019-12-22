@@ -8,11 +8,12 @@ birth:1995.8.14
 
 # Hobby
 
-* Game(Splatoon, ...)
+* Game(Splatoon2, DQMSP...)
 * Snowboard
-* Magic
-* Boardgame
+* Magic(cards)
+* Boardgame(Catan, Blade Rondo)
 * Karaoke
+* Reading(Technical, Business, Marketing)
 
 # Work
 
@@ -21,7 +22,7 @@ birth:1995.8.14
 
 # Portfolio
 
-* [study roadmap](https://github.com/amatsukixgithub/study_roadmap)
+* [Roadmap of Study](https://study-roadmap.herokuapp.com/about) - [[Github]](https://github.com/amatsukixgithub/study_roadmap)
 
 # Language
 
