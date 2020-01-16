@@ -19,7 +19,9 @@ birth:1995.8.14
 
 # Work
 
-* Development, operation and maintenance of EC sites(2018, 2019)
+* Research, manual creation and sales of school management system (2018)
+* Screen design and mock creation of restaurant system (2018)
+* Development and maintenance of EC site (2018, 2019)
 * New employee training(2019)
 
 # Portfolio
